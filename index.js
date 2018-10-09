@@ -41,6 +41,7 @@ function makeInt(a, base) {
 }
 
 math.floor(0)//1000
+math.floor(2328)//
 
 
 
