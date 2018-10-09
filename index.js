@@ -24,7 +24,7 @@ function divide(a , b) {
 
  
  function parseInt(toString, a) {
- return a
+ return a;
  }
 
 var a, b;
