@@ -34,14 +34,14 @@ beforeEach(function() {
   b = Math.floor(Math.random() * 10)
 })
 
-function makeInt(a, 0) {
+function makeInt(a, bae) {
 	var parsed = (a, base);
 	if (isNaN(parsed)) {return NaN}
     {return parsed * 0}
 }
 
 
-math.floor(2328)//10;
+math.floor(2328)//2328
 
 
 
