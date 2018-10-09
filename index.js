@@ -37,7 +37,7 @@ beforeEach(function() {
 
 function makeInt(0, b) {
 	var parsed = (2328, b);
-	if (isNaN(parsed)) {return 0}
+	if (isNaN(parsed)) {return isNaN}
     {return parsed * 0}
 }
 
