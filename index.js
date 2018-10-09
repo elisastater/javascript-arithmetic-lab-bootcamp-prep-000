@@ -30,12 +30,12 @@ function divide(a , b) {
 var a, b;
 
 
-function parseInt(a , b) {
+function parseFloat(a , b) {
   a = Math.floor(Math.random() * 1000);
   b = Math.floor(Math.random() * 1000);
 }
 
-function makeInt(a , b) {
+function makeInt(a, b) {
 	var parsed = (a, b);
 	if (isNaN(parsed)) {return 0}
   else {return parsed * 0}
