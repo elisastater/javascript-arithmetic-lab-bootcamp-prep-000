@@ -37,11 +37,11 @@ function makeInt(a , b) {
 
 function makeInt(a, b) {
 	var parsed = (a, b);
-	if (isNaN(parsed)) {return 0}
+	if (isNaN(parsed)) {return parsed}
   else {return parsed * 0}
 }
 
-Math.floor(2328)//1000;
+Math.floor(2328)//1000
 
 
 
