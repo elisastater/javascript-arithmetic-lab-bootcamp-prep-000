@@ -22,11 +22,11 @@ function divide(a , b) {
    return a - 1
  }
 
- 
+
  function parseInt(toString, a) {
  return a;
  }
-
+*//
 var a, b
 
 
