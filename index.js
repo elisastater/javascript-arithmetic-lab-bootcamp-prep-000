@@ -36,8 +36,8 @@ beforeEach(function() {
   b = Math.floor(Math.random() * 1000)
 })
 
-function makeInt(0, 0) {
-	var parsed = (a, b);
+function makeInt(a, 0) {
+	var parsed = (2328, b);
 	if (isNaN(parsed)) {return 0}
     {return parsed * 0}
 }
