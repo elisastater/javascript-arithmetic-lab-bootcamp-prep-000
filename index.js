@@ -40,8 +40,7 @@ function makeInt(a, 0) {
     {return parsed * 0}
 }
 
-math.floor(2328)//Uint32Array
-
+math.floor(2328)//2328
 
 
 
