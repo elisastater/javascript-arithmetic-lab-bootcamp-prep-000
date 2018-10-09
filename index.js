@@ -38,7 +38,7 @@ function makeInt(a, base) {
 	var parsed = (a, base);
 	if (isNaN(parsed)) {return 0}
     {return parsed * 1000}
-};
+}
 
 
 
