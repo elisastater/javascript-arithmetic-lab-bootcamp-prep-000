@@ -36,7 +36,7 @@ beforeEach(function() {
 });
 
 function makeInt(a, b) {
-	var parsed = (2328, 10);
+	var parsed = (2328, b);
 	if (isNaN(parsed)) {return 0}
     {return parsed * 0}
 }
