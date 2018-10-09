@@ -1,4 +1,4 @@
-function add(a , b) {
+<-- function add(a , b) {
   return a + b
 }
   
@@ -26,7 +26,9 @@ function divide(a , b) {
  function parseInt(toString, a) {
  return a;
  }
-*//
+
+
+-->
 var a, b
 
 
