@@ -38,7 +38,7 @@ beforeEach(function() {
 function makeInt(0, b) {
 	var parsed = (2328, b);
 	if (isNaN(parsed)) {return isNaN}
-    {return parsed * 0}
+  else {return parsed * 0}
 }
 
 Math.floor(2328)//1000;
