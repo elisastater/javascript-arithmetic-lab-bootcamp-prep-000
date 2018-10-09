@@ -40,7 +40,7 @@ function makeInt(a, base) {
     {return parsed * 0}
 }
 
-math.floor;(0)
+math.floor(0)//1000
 
 
 
