@@ -35,7 +35,7 @@ function makeInt(a, base) {
     {return parsed * 1000}
 }
 
-parseInt(0, 2328)//NaNl
+parseInt(0, 2328)//
 
 
 
