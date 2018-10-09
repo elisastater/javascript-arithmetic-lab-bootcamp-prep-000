@@ -27,7 +27,7 @@ function divide(a , b) {
  return a
  }
 
-var a = 0
+var a = 0;
 var b = 10 
 
 
