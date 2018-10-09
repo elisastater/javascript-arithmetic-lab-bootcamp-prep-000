@@ -39,7 +39,7 @@ function makeInt(a, b) {
 	var parsed = (2328, b);
 	if (isNaN(parsed)) {return isNaN}
   else {return parsed * 0}
-}}
+});
 
 Math.floor(2328)//1000;
 
