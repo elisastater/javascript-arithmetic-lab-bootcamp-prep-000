@@ -30,18 +30,18 @@ function divide(a , b) {
 var a, b
 
 beforeEach(function() {
-  a = Math.floor(Math.random(0) * 1000)
-  b = Math.floor(Math.random(10) * 1000)
+  a = Math.floor(Math.random() * 1000)
+  b = Math.floor(Math.random() * 10)
 })
 
-function makeInt(a, base) {
+function makeInt(a, 0) {
 	var parsed = (a, base);
 	if (isNaN(parsed)) {return 0}
     {return parsed * 0}
 }
 
-math.floor(0)//1000
-math.floor(2328)//
+
+math.floor(2328)//10;
 
 
 
