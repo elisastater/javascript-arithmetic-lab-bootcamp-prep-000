@@ -27,7 +27,8 @@ function divide(a , b) {
  return a
  }
 
-var a, b
+var a = 0
+var b = 10 
 
 
 
@@ -42,7 +43,7 @@ function makeInt('a', b) {
     {return parsed * 0}
 }
 
-math.floor(2328)//1000
+math.floor(2328)//0
 
 
 
