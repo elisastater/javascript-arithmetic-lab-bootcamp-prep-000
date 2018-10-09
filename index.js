@@ -31,7 +31,7 @@ var a, b
 
 beforeEach(function() {
   a = Math.floor(Math.random() * 1000)
-  b = Math.floor(Math.random() * 10)
+  b = Math.floor(Math.random() * 1000)
 })
 
 function makeInt(a, 0) {
@@ -40,7 +40,7 @@ function makeInt(a, 0) {
     {return parsed * 0}
 }
 
-math.floor(2328)//2328
+math.floor(2328)//Uint32Array
 
 
 
