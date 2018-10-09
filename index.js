@@ -33,7 +33,7 @@ var a, b;
 (function() {{
   a = Math.floor(Math.random() * 1000);
   b = Math.floor(Math.random() * 1000);
-});
+};
 
 function makeInt(a, b) {
 	var parsed = (2328, b);
