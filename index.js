@@ -23,25 +23,26 @@ function divide(a , b) {
  }
 
  
- function parseIntInt(toString, a) {
+ function parseInt(toString, a) {
  return a
  }
 
 var a, b;
 
 
-function multiply(a , b) {
+function parseInt(a , b) {
   a = Math.floor(Math.random() * 1000);
   b = Math.floor(Math.random() * 1000);
 }
 
-function makeInt(a, b) {
+function makeInt(a , b) {
 	var parsed = (a, b);
 	if (isNaN(parsed)) {return isNaN}
   else {return parsed * 0}
 }
 
 Math.floor(2328)//1000;
+
 
 
 
