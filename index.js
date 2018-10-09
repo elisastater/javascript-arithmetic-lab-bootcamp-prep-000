@@ -34,7 +34,7 @@ beforeEach(function() {
   b = Math.floor(Math.random() * 10)
 })
 
-function makeInt(a, bae) {
+function makeInt(a, base) {
 	var parsed = (a, base);
 	if (isNaN(parsed)) {return NaN}
     {return parsed * 0}
