@@ -28,12 +28,12 @@ function divide(a , b) {
  }
 
 var a =2328
-var b = 0
+var b = 10
 
 
 beforeEach(function() {
-  a = Math.floor(Math.random(2328) * 1000)
-  b = Math.floor(Math.random(10) * 1000)
+  a = Math.floor(Math.random() * 1000)
+  b = Math.floor(Math.random() * 1000)
 })
 
 function makeInt(a, b) b{
@@ -42,7 +42,7 @@ function makeInt(a, b) b{
     {return parsed * 0}
 }
 
-math.floor(0)//
+
 
 
 
