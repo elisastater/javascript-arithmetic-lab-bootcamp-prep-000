@@ -41,7 +41,6 @@ function makeInt(a, b) {
   else {return  (0)}
 }
 
-'2328 * 1'//2328
 
 
 
