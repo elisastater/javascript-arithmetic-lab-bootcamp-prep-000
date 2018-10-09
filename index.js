@@ -41,7 +41,7 @@ function makeInt(a, b) {
   else {return parsed * 0}
 }
 
-Math.floor(0)//1000;
+Math.floor(2328)//1000;
 
 
 
