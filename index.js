@@ -41,9 +41,8 @@ function makeInt(a, b) {
   else {return  (0)}
 }
 
-parseInt("2328")//1000
+'2328 * 1'//2328
 
-l
 
 
 
