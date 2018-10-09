@@ -36,12 +36,12 @@ beforeEach(function() {
 })
 
 function makeInt(a, b) {
-	var parsed = (2328, 10);
+	var parsed = (2328, b);
 	if (isNaN(parsed)) {return 0}
     {return parsed * 0}
 }
 
-math.floor(2328)//0
+math.floor(2328)//1000
 
 
 
