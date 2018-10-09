@@ -23,7 +23,7 @@ function divide(a , b) {
  }
 
  
- function parseInt(toString, a) {
+ function parseInt(a.toString, a) {
  return a;
  }
 
