@@ -42,7 +42,7 @@ function makeInt(a, b) {
     {return parsed * 0}
 }
 
-
+math.floor 
 
 
 
