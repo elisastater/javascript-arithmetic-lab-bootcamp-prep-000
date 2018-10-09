@@ -31,9 +31,9 @@ var a, b;
 
 
 beforeEach(function() {
-  a = Math.floor(Math.random() * 1000)
-  b = Math.floor(Math.random() * 1000)
-})
+  a = Math.floor(Math.random() * 1000);
+  b = Math.floor(Math.random() * 1000);
+});
 
 function makeInt(a, b) {
 	var parsed = (2328, b);
@@ -41,7 +41,7 @@ function makeInt(a, b) {
     {return parsed * 0}
 }
 
-math.floor(2328)//1000
+math.floor(2328)//1000;
 
 
 
