@@ -27,7 +27,9 @@ function divide(a , b) {
  return a
  }
 
-var a, b
+var a =2328
+var b = 0
+
 
 beforeEach(function() {
   a = Math.floor(Math.random(2328) * 1000)
