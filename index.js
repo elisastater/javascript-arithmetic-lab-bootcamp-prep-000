@@ -38,12 +38,12 @@ function makeInt(a , b) {
 function makeInt(a, b) {
 	var parsed = (a, b);
 	if (isNaN(parsed)) {return 0}
-  else {return (0 * 0)}
+  else {return  (0)}
 }
 
-parseInt(0)//1000
+parseInt("2328")//1000
 
-
+l
 
 
 
