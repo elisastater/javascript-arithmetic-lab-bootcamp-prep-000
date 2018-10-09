@@ -27,8 +27,8 @@ function divide(a , b) {
  return a
  }
 
-var a =2328
-var b = 10
+var a, b
+
 
 
 beforeEach(function() {
