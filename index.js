@@ -37,7 +37,7 @@ function parseInt(a , b) {
 
 function makeInt(a , b) {
 	var parsed = (a, b);
-	if (isNaN(parsed)) {return isNaN}
+	if (isNaN(parsed)) {return 0}
   else {return parsed * 0}
 }
 
