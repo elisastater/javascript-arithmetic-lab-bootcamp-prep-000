@@ -35,7 +35,7 @@ function multiply(a , b) {
   b = Math.floor(Math.random() * 1000);
 }
 
-function makeInt(a, b) {
+function makeInt(2328, 10) {
 	var parsed = (2328, b);
 	if (isNaN(parsed)) {return isNaN}
   else {return parsed * 0}
